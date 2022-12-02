@@ -1,0 +1,1 @@
+# swift-package-custom-native-ads-customer1
