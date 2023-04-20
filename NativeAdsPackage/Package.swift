@@ -23,7 +23,7 @@ let package = Package(
             name: "NativeAdsPackage",
             dependencies: []),
         .binaryTarget(name: "NativeAds",
-                             url:"https://developer.adition.com/spm/service/local/repositories/releases/content/adition/ios/nativeads/1.0.3/nativeads-1.0.3.zip",
-                             checksum: "ed45c4390a2a86ac8a3563c72bf6da59a6d49fca373efa7a457d2282d883c900")
+                             url:"https://developer.adition.com/spm/service/local/repositories/releases/content/adition/ios/nativeads/1.0.2/nativeads-1.0.3.zip",
+                             checksum: "8faaa5b7f21e76e120e3a873c50c5c7b23482f76a05292d4ce499fa2076098a4")
     ]
 )
